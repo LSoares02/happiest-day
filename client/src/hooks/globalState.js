@@ -7,12 +7,8 @@ const GlobalStateContext = createContext({});
 export default function GlobalStateProvider({ children }) {
   const languageIcons = { pt: <BR />, es: <ES />, en: <US /> };
 
-  const [lightMode, setLightMode] = useState("en");
-
   return (
-    <GlobalStateContext.Provider
-      value={{ languageIcons, lightMode, setLightMode }}
-    >
+    <GlobalStateContext.Provider value={{ languageIcons }}>
       {children}
     </GlobalStateContext.Provider>
   );
