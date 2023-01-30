@@ -1,0 +1,27 @@
+#aboutContent {
+  // height: 100%;
+}
+#smallText {
+  box-shadow: inset 10px 20px 20px #f3e3ce93;
+  padding: 2rem;
+  padding-bottom: 4rem;
+}
+#smallText p {
+  font-size: 80%;
+  text-align: justify;
+}
+#photoGrid {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.photoSquare {
+  height: 450px;
+  width: 50%;
+  transition: transform 0.3s;
+}
+
+.photoSquare:hover {
+  cursor: pointer;
+  transform: scale(1.01);
+}

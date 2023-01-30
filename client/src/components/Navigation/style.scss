@@ -1,0 +1,23 @@
+#navigation {
+  width: 4rem;
+  padding: 10px;
+  background-color: antiquewhite;
+  border-radius: 15px;
+  position: fixed;
+  gap: 5px;
+  left: 0.5rem;
+  bottom: 1rem;
+  opacity: 0.3;
+  transition: 0.6s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 2;
+}
+
+#navigation:hover {
+  cursor: pointer;
+  opacity: 1;
+  left: 0.5rem;
+  bottom: 1rem;
+}

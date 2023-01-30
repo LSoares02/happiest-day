@@ -1,0 +1,35 @@
+#homeContent {
+  // height: 100%;
+}
+#homeImgContainer {
+  position: relative;
+  height: 600px;
+  display: flex;
+  justify-content: flex-end;
+}
+#timerDiv {
+  position: relative;
+  display: flex;
+  height: 300px;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+#parish,
+#buffet {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 300px;
+  overflow: hidden;
+  box-shadow: 0 15px 50px -46px;
+}
+#parish p,
+#buffet p {
+  width: 100%;
+  padding: 1rem;
+  font-size: large;
+  text-align: center;
+}

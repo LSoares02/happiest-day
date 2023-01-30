@@ -1,10 +1,19 @@
 @use "@carbon/react";
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
 html,
 body {
   height: 100%;
   overflow-x: hidden;
+  font-family: "Quicksand", sans-serif;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+* {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
 
 body {
@@ -15,23 +24,34 @@ body {
 
 #root {
   height: 100%;
+  width: 100%;
 }
 
 .content {
-  padding-left: 3rem;
-  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
 }
 
-.cds--g100,
-.cds--white {
-  min-height: 100%;
+*:not(img):not(#navigation) {
+  /* fade-in */
+  -webkit-animation: globalFadein 1s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: globalFadein 1s; /* Firefox < 16 */
+  -ms-animation: globalFadein 1s; /* Internet Explorer */
+  -o-animation: globalFadein 1s; /* Opera < 12.1 */
+  animation: globalFadein 1s;
 }
 
-.cds--loading-overlay {
-  z-index: 9999;
+@keyframes globalFadein {
+  from {
+    opacity: 0;
+    transform: scale(1.05, 1.05);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
 }
 
-#cognosDiv {
-  height: calc(100vh - 3rem);
-  overflow: hidden;
+.styles-module_wrapper__1I_qj {
+  z-index: 3 !important;
 }
