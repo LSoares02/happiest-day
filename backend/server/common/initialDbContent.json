@@ -1,0 +1,274 @@
+{
+  "items": [
+    {
+      "name": "Air fryer",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Batedeira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Cafeteira elétrica",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Churrasqueira elétrica",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Coqueteleira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Frigireira antiaderente",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Fruteira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Galheteiro",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Grill",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de assadeiras de vidro",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de assadeiras de alumínio",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de panelas",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Jogo de travessas",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Kit de facas para churrasco",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Liquidificador",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Mixer",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Moedor de grãos de café",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Panela de fondue",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Panela de pressão",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Panela elétrica de arroz",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Purificador de água",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Torradeira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Sanduicheira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Chaleira, bule e leiteira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Escorredor de pratos e talheres",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Petisqueira",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Potes herméticos",
+      "category": "kitchen",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Conjunto para sobremesas",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Faqueiro",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de copos",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Jogo de pratos",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Jogo de taças de vinho",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de taças de champanhe",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de xícaras de café e chá",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Jogo de talheres",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Adega",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Itens para mesa posta",
+      "category": "dinner",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Edredom",
+      "category": "bedroom",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Jogo de cama",
+      "category": "bedroom",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Aspirador de pó",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Ferro de passar roupas",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Tábua de passar roupa",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Ventilador",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 2
+    },
+    {
+      "name": "Ar condicionado portátil",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 1
+    },
+    {
+      "name": "Umidificador de ar",
+      "category": "appliances",
+      "gifter": [],
+      "qtt": 1
+    }
+  ]
+}

@@ -32,7 +32,9 @@ body {
   width: 100%;
 }
 
-*:not(img):not(#navigation) {
+.content,
+#ReactSimpleImageViewer,
+.listItem {
   /* fade-in */
   -webkit-animation: globalFadein 1s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: globalFadein 1s; /* Firefox < 16 */
