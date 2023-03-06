@@ -3,17 +3,15 @@ import { Timer } from "../../components/Countdown";
 import { Spacer } from "../../components/Spacer";
 import { Header } from "../../components/Header";
 
-import { useGlobalState } from "../../hooks/globalState";
-
 import home from "../../imgs/home.jpg";
 import calendar from "../../imgs/calendar.png";
 import monogram from "../../imgs/monogram.svg";
-import flowers1 from "../../imgs/flowers1.svg";
 import parish from "../../imgs/parish.jpg";
 import mariah from "../../imgs/mariah.jpg";
-import "./style.scss";
 import Map from "../../components/Map";
 import { NavigationIcons } from "../../components/Navigation";
+
+import "./style.scss";
 
 export default function Home() {
   useEffect(() => {

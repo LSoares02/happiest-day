@@ -29,7 +29,7 @@ import Torradeira from "../imgs/kitchen/Torradeira.jpg";
 import Adega from "../imgs/dinner/Adega.jpg";
 import Conjuntoparasobremesas from "../imgs/dinner/Conjunto para sobremesas.jpg";
 import Faqueiro from "../imgs/dinner/Faqueiro.jpg";
-import Itensparamesaposta from "../imgs/dinner/Itens para mesa posta.jpg";
+import Itensparamesaposta from "../imgs/dinner/Itens para mesa posta.png";
 import Jogodecopos from "../imgs/dinner/Jogo de copos.jpg";
 import Jogodepratos from "../imgs/dinner/Jogo de pratos.jpg";
 import Jogodetaçasdechampanhe from "../imgs/dinner/Jogo de taças de champanhe.jpg";

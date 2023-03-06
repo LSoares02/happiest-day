@@ -74,16 +74,18 @@ export default function About() {
           <h3>
             <p>...mas que nem é tão velha assim!</p>
             <p>
-              São 6 anos de um amor cujas primícias culiminarão neste grande
-              dia!
+              São 6 anos de um amor que já parece muito antigo, mas cujas
+              primícias culminarão neste grande dia!
             </p>
             <p>
-              Da divisa entre SP e MG para o mundo, trouxemos nosso amor até
-              aqui, com muito companheirismo e graça de Deus!
+              Da divisa entre São Paulo e Minas Gerais para o mundo, envelhecido
+              entre instrumentos musicais, videogames, sonhos de terras
+              distantes e muitos hambúrgueres, trouxemos nosso amor até aqui,
+              com muita graça de Deus!
             </p>
             <p>
-              E agora contamos com você para estar ao nosso lado nesse novo
-              capítulo!
+              E agora, apresentando-o com orgulho, contamos com você para estar
+              ao nosso lado nesse novo capítulo que estamos escrevendo.
             </p>
           </h3>
         </div>

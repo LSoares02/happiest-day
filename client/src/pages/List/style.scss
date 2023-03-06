@@ -1,3 +1,12 @@
+#giftsText {
+  box-shadow: inset 10px 20px 20px #f3e3ce93;
+  padding: 2rem;
+  padding-bottom: 0;
+}
+#giftsText p {
+  font-size: 80%;
+  text-align: justify;
+}
 .listItem {
   position: relative;
   display: flex;
@@ -9,7 +18,10 @@
   border-bottom: 1px dotted lightgrey;
   font-weight: bold;
   overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px lightgrey;
 }
+
 .listItem img:hover {
   cursor: pointer;
   animation: scale 2s;

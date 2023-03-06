@@ -34,7 +34,8 @@ body {
 
 .content,
 #ReactSimpleImageViewer,
-.listItem {
+.listItem,
+#loginModal {
   /* fade-in */
   -webkit-animation: globalFadein 1s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: globalFadein 1s; /* Firefox < 16 */
@@ -56,4 +57,8 @@ body {
 
 .styles-module_wrapper__1I_qj {
   z-index: 3 !important;
+}
+
+#loading {
+  z-index: 9999;
 }
